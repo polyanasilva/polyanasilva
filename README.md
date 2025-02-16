@@ -1,7 +1,7 @@
 ## About Me
 
 - 🎓 Undergraduate student in Biotechnology at the Federal University of Pará (UFPA)
-- 🧠 Neurophysiological signal processing and analysis
+- 🧠 Studying neurophysiological signal processing and analysis
 - 🤖 Enthusiast of machine learning, deep learning, and computational biology
 
 ---
