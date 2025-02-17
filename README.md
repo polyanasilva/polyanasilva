@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Skills
+## My Skills
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polyanasilva&theme=dracula&show_icons=true" />
 </a>
 
-## 📫 Where to find me
+## Where to find me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujospolyana@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polyana-silva-de-araujo/)
