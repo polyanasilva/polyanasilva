@@ -19,12 +19,6 @@
 
 ---
 
-<br/>
-
-<a href="https://github.com/iuricode" title="Poly's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polyanasilva&theme=dracula&show_icons=true" />
-</a>
-
 ## Where to find me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvapolyanaa145@gmail.com)
