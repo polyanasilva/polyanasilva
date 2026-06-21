@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,tensorflow,linux,matlab,latex,git,gcp,docker"/>
+<img src="https://skillicons.dev/icons?i=python,r,postgres,sklearn,tensorflow,linux,matlab,flask,latex,git,gcp,docker,javascript,html,css"/>
 
 ---
 
